@@ -3,11 +3,10 @@ layout:     post
 title:      ShuningWan Resume
 date:       2018-06-24
 author:     Shuning Wan
-header-img: img/post-bg-coffee.jpeg
+header-img: img/tag-bg.jpeg
 catalog: true
 tags:
-    - 分布式
-    - 引用
+    - Resume
 ---
 # 联系方式
 - 手机：18738391523
