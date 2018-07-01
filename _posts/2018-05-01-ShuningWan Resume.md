@@ -33,10 +33,10 @@ tags:
 
 ## 新乡金蝶公司 （ 2017年9月 ~ 2018年6月 ）
 
-### **SRM**(*Supplier Relation Management*)供应商关系管理系统 &nbsp;````担任项目组长````
+### **SRM**供应商关系管理系统 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;````担任项目组长````
 >**项目描述**
 
-- SRM系统根据业内多企业的实际业务需求，充分考虑企业与供应商之间业务管理的特点和需求，建设出的一个符合
+- SRM(*Supplier Relation Management*)系统根据业内多企业的实际业务需求，充分考虑企业与供应商之间业务管理的特点和需求，建设出的一个符合
 大多数企业与供应商之间沟通和管理业务需求的信息化管理平台，包括以下模块：
 
         1.基础模块（用户管理、权限管理、角色管理、部门管理、菜单管理、字典管理、文件管理）。
