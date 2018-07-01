@@ -17,9 +17,9 @@ tags:
 
 # 个人信息
 
- - 胶布帝/男/1990 
+ - 万舒宁/男/1997
  - 河南工学院计算机系 
- - 工作年限：1年之上
+ - 工作年限：1-2年
  - 技术博客：http://ShuningWan.github.io
  - 期望职位：Java开发工程师
  - 期望薪资：税前月薪8k~10k，特别喜欢的公司可例外
@@ -67,17 +67,17 @@ tags:
 ## 参考技能关键字
 
 ```java j2ee jvm```
-- spring &nbsp; springmvc &nbsp; web &nbsp; mybatis &nbsp; hibernate &nbsp; struts2 &nbsp; servlet
-**xml &nbsp; json &nbsp; jbpm**
-- Theymeleaf &nbsp; FreeMarker &nbsp; htmljsp &nbsp; ajax &nbsp; css &nbsp; js &nbsp; jquery &nbsp; javascript
-- mysql &nbsp; oracle &nbsp; postgresql &nbsp; sqlserver
-- redis(↓) &nbsp; maven
-```tomcat &nbsp; apache &nbsp; xampp &nbsp; wampserver &nbsp; nginx(↓)
-- eclipse &nbsp; myeclipse &nbsp; idea
-- svn &nbsp; git
-- webservice &nbsp; WebSocket &nbsp; SocketJS
-- Windows &nbsp; Linux
-- AliPay```
+```spring springmvc web mybatis hibernate struts2 servlet```
+```xml json jbpm```
+```Theymeleaf FreeMarker htmljsp ajax css js jquery javascript```
+```mysql oracle postgresql sqlserver```
+```redis(↓) maven```
+```tomcat apache xampp wampserver nginx(↓)```
+```eclipse myeclipse idea```
+```svn git```
+```webservice WebSocket SocketJS```
+```Windows Linux```
+```AliPay```
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
