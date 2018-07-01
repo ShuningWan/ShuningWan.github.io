@@ -33,7 +33,7 @@ tags:
 
 ## 新乡金蝶公司 （ 2017年9月 ~ 2018年6月 ）
 
-### **SRM**(*Supplier Relationship Management*)供应商关系管理系统（以下简称**SRM**）
+#### **SRM**(*Supplier Relationship Management*)供应商关系管理系统（以下简称**SRM**）
 >**项目描述**
 - SRM系统根据业内多企业的实际业务需求，充分考虑企业与供应商之间业务管理的特点和需求，建设出的一个符合
 大多数企业与供应商之间沟通和管理业务需求的信息化管理平台，包括以下模块：
@@ -47,8 +47,10 @@ tags:
         4.询价业务模块（询价管理、同3共用模块）。
         
         5.其他模块（爬虫模块【1688】 、日志管理、在线管理、通知管理、问题反馈）
+        
 >**所用关键技术**
 - ``` Spring Boot / Spring / SpringMVC / Mybatis / Shiro / Activiti / Thymeleaf / Socket / Ztree / Bootstarp / LayUI / Maven / Git ```
+
 >**个人总结**
     
         出于领导的信任以及个人的能力，由我担任SRM项目组组长,组内成员4人，负责该项目组内成员任务分配以及调度工作，
