@@ -20,9 +20,9 @@ tags:
  - 万舒宁/男/1997
  - 河南工学院计算机系 
  - 工作年限：1-2年
- - 技术博客：http://ShuningWan.github.io
+ - 技术博客：[http://ShuningWan.github.io](http://ShuningWan.github.io)
  - 期望职位：Java开发工程师
- - 期望薪资：税前月薪8k~10k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪8k~10k ```特别喜欢的公司可例外```
  - 期望城市：北京
 
 ---
