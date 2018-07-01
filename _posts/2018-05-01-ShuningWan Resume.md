@@ -3,7 +3,7 @@ layout:     post
 title:      ShuningWan Resume
 date:       2018-06-24
 author:     Shuning Wan
-header-img: img/tag-bg.jpeg
+header-img: img/tag-bg.jpg
 catalog: true
 tags:
     - Resume
@@ -59,25 +59,25 @@ tags:
 
 - Web开发及工具：```IDEA/Eclipse/MyEclipse/```
 - Web框架：```Spring Boot/Spring/Spring MVC/Mybatis/Spring/Struts2/Hibernate```
-- 前端技术：Bootstrap/LayUI/Javascript/HTML5/jQuery
-- 前端工具：HBuilder/Dreamweaver/WebStorm/WampServer
-- 数据库相关：MySQL/PgSQL/Oracle/SQLServer/Navicat/DataGrip
-- 版本管理、文档和自动化部署工具：Svn/Git/Maven
+- 前端技术：```Bootstrap/LayUI/Javascript/HTML5/jQuery```
+- 前端工具：```HBuilder/Dreamweaver/WebStorm/WampServer```
+- 数据库相关：```MySQL/PgSQL/Oracle/SQLServer/Navicat/DataGrip```
+- 版本管理、文档和自动化部署工具：```Svn/Git/Maven```
 
 ## 参考技能关键字
 
-```java &nbsp; j2ee &nbsp; jvm```
+```java j2ee jvm```
 - spring &nbsp; springmvc &nbsp; web &nbsp; mybatis &nbsp; hibernate &nbsp; struts2 &nbsp; servlet
 **xml &nbsp; json &nbsp; jbpm**
 - Theymeleaf &nbsp; FreeMarker &nbsp; htmljsp &nbsp; ajax &nbsp; css &nbsp; js &nbsp; jquery &nbsp; javascript
 - mysql &nbsp; oracle &nbsp; postgresql &nbsp; sqlserver
 - redis(↓) &nbsp; maven
-- tomcat &nbsp; apache &nbsp; xampp &nbsp; wampserver &nbsp; nginx(↓)
+```tomcat &nbsp; apache &nbsp; xampp &nbsp; wampserver &nbsp; nginx(↓)
 - eclipse &nbsp; myeclipse &nbsp; idea
 - svn &nbsp; git
 - webservice &nbsp; WebSocket &nbsp; SocketJS
 - Windows &nbsp; Linux
-- AliPay
+- AliPay```
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
