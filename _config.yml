@@ -1,12 +1,12 @@
 # Site settings
 title: ShuningWan Blog
 SEOTitle: ShuningWan的博客 | ShuningWan Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/tag-bg-o.jpg
 email: 1668348810@qq.com
 description: "Every failure is leading towards success."
 keyword: "ShuningWan, ShuningWan Blog, ShuningWan的博客, 万舒宁, wanshuning, WANshuning, Apple, iPhone"
 url: "http://ShuningWan.github.io"          # your host, for absolute URL
-baseurl: "/2018/06/24/ShuningWan-Resume/"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog' /2018/06/24/ShuningWan-Resume
 github_repo: "https://github.com/ShuningWan/ShuningWan.github.io.git" # you code repository
 
 # Sidebar settings
