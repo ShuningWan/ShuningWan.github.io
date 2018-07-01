@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      ShuningWan Resume
-date:       2018-06-24
 author:     Shuning Wan
 header-img: img/tag-bg.jpg
 catalog: true
