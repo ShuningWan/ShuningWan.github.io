@@ -57,8 +57,8 @@ tags:
 ## 技能清单
 以下均为我熟练使用的技能
 
-- Web开发及工具：IDEA/Eclipse/MyEclipse/
-- Web框架：Spring Boot/Spring/Spring MVC/Mybatis/Spring/Struts2/Hibernate
+- Web开发及工具：```IDEA/Eclipse/MyEclipse/```
+- Web框架：```Spring Boot/Spring/Spring MVC/Mybatis/Spring/Struts2/Hibernate```
 - 前端技术：Bootstrap/LayUI/Javascript/HTML5/jQuery
 - 前端工具：HBuilder/Dreamweaver/WebStorm/WampServer
 - 数据库相关：MySQL/PgSQL/Oracle/SQLServer/Navicat/DataGrip
@@ -66,9 +66,9 @@ tags:
 
 ## 参考技能关键字
 
-- java &nbsp; j2ee &nbsp; jvm
+```java &nbsp; j2ee &nbsp; jvm```
 - spring &nbsp; springmvc &nbsp; web &nbsp; mybatis &nbsp; hibernate &nbsp; struts2 &nbsp; servlet
-- xml &nbsp; json &nbsp; jbpm
+**xml &nbsp; json &nbsp; jbpm**
 - Theymeleaf &nbsp; FreeMarker &nbsp; htmljsp &nbsp; ajax &nbsp; css &nbsp; js &nbsp; jquery &nbsp; javascript
 - mysql &nbsp; oracle &nbsp; postgresql &nbsp; sqlserver
 - redis(↓) &nbsp; maven
