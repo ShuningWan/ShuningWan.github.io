@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      guava之Joiner 和 Splitter
-subtitle:   Shuning Wan Blog
 date:       2018-08-20
 author:     Shuning Wan
 header-img: img/post-bg-coffee.jpeg
